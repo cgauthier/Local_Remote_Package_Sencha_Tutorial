@@ -528,7 +528,7 @@ From `PC 1`, You need to upload those files to your web server.
 
 	2) Sets up a PC for remote access to our Sencha repo
 
-You will be using PC 2 for this.
+You will be using `PC 2` for this.
 
 At the command prompt type the following: `sencha package repo add "demo" <http://valid address where your files are loaded>`
 
